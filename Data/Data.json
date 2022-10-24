@@ -1,0 +1,61 @@
+[
+  {
+    "id": "1",
+    "name": "Machine Learning",
+    "about": "This machine learning course offers Introduction to machine learning, data mining, and statistical pattern recognition. The course will also help you to draw from numerous case studies and applications. You will also learn about applying algorithms to create smart robots, medical informatics, audio database mining, and various other areas.\r\n",
+    "duration": "Approx. 60 hours to complete",
+    "fee": 8000,
+    "rating": 4.5,
+    "quantity": 0,
+    "img": "https://images.unsplash.com/photo-1591453089816-0fbb971b454c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80"
+  },
+  {
+    "id": "2",
+    "name": "Python for Everybody Specialization",
+    "about": "Python for everybody specialization is a course that helps you to learn the basics of programming using Python language. This course introduces you to the fundamental programming concepts, including data structures, networked application program interfaces, using the Python programming language. With the given case study of the capstone project, you will learn how to use the latest technologies to create Python applications for data retrieval, processing, and visualization.\r\n",
+    "duration": "Approx. 45 hours to complete",
+    "fee": 6000,
+    "rating": 4.5,
+    "quantity": 0,
+    "img": "https://images.unsplash.com/photo-1526379095098-d400fd0bf935?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1932&q=80"
+  },
+  {
+    "id": "3",
+    "name": "Digital Marketing Specialization",
+    "about": "Digital Marketing Specialization is a bundle of seven-course certificates developed by ILLINOIS. This course includes topics like Digital Marketing Analytics, Search Engine Optimization, Social Media Marketing, and 3D Printing. It is an online certificate course that can be completed in about eight months. It helps you to learn intermediate and advanced level skills in the field of Digital marketing. Moreover, Once you complete these digital marketing courses, you will have the opportunity to apply the skills to a real-life capstone project setup in partnership with Grainger.\r\n",
+    "duration": "Approx. 40 hours to complete",
+    "fee": 50000,
+    "rating": 4.6,
+    "quantity": 0,
+    "img": "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1851&q=80"
+  },
+  {
+    "id": "4",
+    "name": "Introduction to Artificial Intelligence",
+    "about": "Artificial intelligence (AI) is the general study of making intelligent machines. Machine learning (ML), a subset of AI, focuses on the ability of machines to receive data and learn for themselves without being programmed with rules. ML differs from traditional programming by allowing you to teach your program with examples rather than a list of instructions. Instead of writing instructions, or rules, while programming, machine learning enables you to train an algorithm so that it can learn on its own, and then adjust and improve as it learns more about the information it is processing.",
+    "fee": 12000,
+    "rating": 4.8,
+    "quantity": 0,
+    "img": "https://images.unsplash.com/photo-1526378722484-bd91ca387e72?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3134&q=80"
+  },
+  {
+    "id": "5",
+    "name": "Big Data Analysis ",
+    "about": "By learning data analysis, you can help companies take more informed business decisions through analyzing transaction data and other forms of data that otherwise couldn’t be tracked by conventional business intelligence programs. There are many organizations and online business schools that offer Big Data and and business analytics courses where you’ll be taught about creating, testing and analyzing data.\r\n",
+    "duration": "Approx. 76 hours to complete",
+    "fee": 4000,
+    "rating": 4.6,
+    "quantity": 0,
+    "img": "https://images.unsplash.com/photo-1487058792275-0ad4aaf24ca7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80"
+  },
+  {
+    "id": "6",
+    "name": "Film Making",
+    "about": "For those who are interesting in things that happens behind the camera can enroll themselves in film making course online and learn the basics. people who have always been enthusiastic about movie making but couldn’t pursue a career in the filed can take up a short term course online and acquire skills to direct their own short films and feature films.\r\n",
+    "duration": "Approx. 20 hours to complete",
+    "fee": 3000,
+    "rating": 4.9,
+    "quantity": 0,
+    "img": "https://images.unsplash.com/photo-1485846234645-a62644f84728?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1718&q=80"
+  }
+]
