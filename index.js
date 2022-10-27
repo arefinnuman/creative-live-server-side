@@ -18,13 +18,11 @@ app.get("/view-course", (req, res) => {
 
 app.get("/course/:id", (req, res) => {
   const id = req.params.id;
-
-  const getSingleItem = coursesCollection.find((course) => course.id == id);
-
-  if (!getSingleItem) {
+  const course = coursesCollection.find((course) => course.id == id);
+  if (!course) {
     res.send("Nothing Found");
   } else {
-    res.send(getSingleItem);
+    res.send(course);
   }
 });
 
