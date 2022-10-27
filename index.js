@@ -26,6 +26,16 @@ app.get("/course/:id", (req, res) => {
   }
 });
 
+app.get("/get-access/:id", (req, res) => {
+  const id = req.params.id;
+  const course = coursesCollection.find((course) => course.id == id);
+  if (!course) {
+    res.send("Nothing Found");
+  } else {
+    res.send(course);
+  }
+});
+
 app.listen(Port, () => {
   console.log("Server is running", Port);
 });
